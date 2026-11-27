@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **35** digests · **261** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **36** digests · **262** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 19:59 | 1 | [2026-11-27_1959.md](2026-11-27_1959.md) | Frozen language model helps predict materials properties with roughly 95% less training t… |
 | 19:36 | 3 | [2026-11-27_1936.md](2026-11-27_1936.md) | Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bl… |
 | 19:12 | 5 | [2026-11-27_1912.md](2026-11-27_1912.md) | Trump is destroying the rule of law in the US – to protect himself and the tech titans he… |
 | 18:55 | 3 | [2026-11-27_1855.md](2026-11-27_1855.md) | Anzeige: 20 Prozent Rabatt auf Vibe-Coding-Workshop |
