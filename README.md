@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **39** digests · **276** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **40** digests · **278** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 21:34 | 2 | [2026-11-27_2134.md](2026-11-27_2134.md) | OpenAI пошла в контратаку и обвинила Apple в краже секретов и попытках задушить конкурента |
 | 21:06 | 3 | [2026-11-27_2106.md](2026-11-27_2106.md) | Китайцы придумали, как ускорить трассировку лучей без увеличения нагрузки на видеокарту |
 | 20:45 | 5 | [2026-11-27_2045.md](2026-11-27_2045.md) | OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers |
 | 20:22 | 6 | [2026-11-27_2022.md](2026-11-27_2022.md) | Samsung создала первую в мире 500-слойную память NAND — она выйдет на рынок уже в 2027 го… |
