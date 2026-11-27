@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **20** digests · **193** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **21** digests · **196** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 14:32 | 3 | [2026-11-27_1432.md](2026-11-27_1432.md) | From Alibaba to BharatGen, 10 Small Language Models That Rivalled LLMs in 2026 |
 | 14:07 | 6 | [2026-11-27_1407.md](2026-11-27_1407.md) | Android уже не тот: iOS и HarmonyOS отвоевывают рынок смартфонов по всему миру |
 | 13:46 | 7 | [2026-11-27_1346.md](2026-11-27_1346.md) | Без роуминга и киосков в аэропортах: WhatsApp предложит туристам eSIM |
 | 13:17 | 9 | [2026-11-27_1317.md](2026-11-27_1317.md) | Verbraucherzentrale mahnt OpenAI und Anthropic ab |
