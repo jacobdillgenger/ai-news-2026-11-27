@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **16** digests · **165** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **17** digests · **171** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 12:55 | 6 | [2026-11-27_1255.md](2026-11-27_1255.md) | Ökonomie: Forscher sieht 97-prozentige Wahrscheinlichkeit für KI-Blase |
 | 12:28 | 4 | [2026-11-27_1228.md](2026-11-27_1228.md) | Kommunen im Norden: SPD-Spitzenkandidat Kämpfer für mehr kommunale Freiheiten |
 | 12:00 | 3 | [2026-11-27_1200.md](2026-11-27_1200.md) | Switzerland confirms first AI agent cyberattacks on critical infrastructure |
 | 11:36 | 8 | [2026-11-27_1136.md](2026-11-27_1136.md) | Google раскроет домашние адреса и телефоны Android-разработчиков по всему миру |
