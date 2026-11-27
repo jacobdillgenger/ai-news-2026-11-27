@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **7** digests · **80** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **8** digests · **95** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 09:09 | 15 | [2026-11-27_0909.md](2026-11-27_0909.md) | El revuelo con T3 Code y programar con IA, explicado: un software open source que usa tel… |
 | 08:43 | 15 | [2026-11-27_0843.md](2026-11-27_0843.md) | Bundesregierung will KI-Anbieter zur Kasse bitten |
 | 08:16 | 15 | [2026-11-27_0816.md](2026-11-27_0816.md) | Natural England objected to a datacentre. Weeks later ministers threatened to abolish the… |
 | 07:50 | 15 | [2026-11-27_0750.md](2026-11-27_0750.md) | German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg |
