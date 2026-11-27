@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **40** digests · **278** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **41** digests · **279** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 21:56 | 1 | [2026-11-27_2156.md](2026-11-27_2156.md) | OpenAI countersues Apple, accusing it of pressuring suppliers |
 | 21:34 | 2 | [2026-11-27_2134.md](2026-11-27_2134.md) | OpenAI пошла в контратаку и обвинила Apple в краже секретов и попытках задушить конкурента |
 | 21:06 | 3 | [2026-11-27_2106.md](2026-11-27_2106.md) | Китайцы придумали, как ускорить трассировку лучей без увеличения нагрузки на видеокарту |
 | 20:45 | 5 | [2026-11-27_2045.md](2026-11-27_2045.md) | OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers |
