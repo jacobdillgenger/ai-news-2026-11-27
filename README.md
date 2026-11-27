@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **29** digests · **237** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **30** digests · **240** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 17:42 | 3 | [2026-11-27_1742.md](2026-11-27_1742.md) | We built an AI you can dance with. It taught us about developing the technology responsib… |
 | 17:24 | 7 | [2026-11-27_1724.md](2026-11-27_1724.md) | Los chips Blackwell de Nvidia aparecen en un centro de datos de Shanghái vinculado a Alic… |
 | 16:57 | 6 | [2026-11-27_1657.md](2026-11-27_1657.md) | Next Wave of Payer AI: Managing Regulations, Costs, and Fragmented Systems all at once |
 | 16:35 | 4 | [2026-11-27_1635.md](2026-11-27_1635.md) | A World Model to Predict What You’ll Look at Next |
