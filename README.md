@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **42** digests · **280** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **43** digests · **283** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 23:01 | 3 | [2026-11-27_2301.md](2026-11-27_2301.md) | Apple не включит 5G на российских iPhone — Минцифры не смогло договориться |
 | 22:40 | 1 | [2026-11-27_2240.md](2026-11-27_2240.md) | OpenAI reicht im Streit um KI-Technologie Gegenklage gegen Apple ein |
 | 21:56 | 1 | [2026-11-27_2156.md](2026-11-27_2156.md) | OpenAI countersues Apple, accusing it of pressuring suppliers |
 | 21:34 | 2 | [2026-11-27_2134.md](2026-11-27_2134.md) | OpenAI пошла в контратаку и обвинила Apple в краже секретов и попытках задушить конкурента |
