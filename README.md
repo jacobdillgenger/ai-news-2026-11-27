@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **12** digests · **144** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **13** digests · **150** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 11:07 | 6 | [2026-11-27_1107.md](2026-11-27_1107.md) | As Google threatens to cut schools' search access, Los Angeles blocks AI features |
 | 10:44 | 4 | [2026-11-27_1044.md](2026-11-27_1044.md) | Agentische KI: BSI-Chefin warnt vor "Cyberangriffen zum Schnäppchenpreis" |
 | 10:16 | 15 | [2026-11-27_1016.md](2026-11-27_1016.md) | Дефицит памяти обрушит рынок ПК в 2027 году — HP нашла спасение в дорогих компьютерах с ИИ |
 | 10:00 | 15 | [2026-11-27_1000.md](2026-11-27_1000.md) | 55 дюймов, 4K 165 Гц и 5-ядерный процессор — всего $225. Представлен новый бюджетный теле… |
