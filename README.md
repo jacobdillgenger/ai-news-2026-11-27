@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **34** digests · **258** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **35** digests · **261** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 19:36 | 3 | [2026-11-27_1936.md](2026-11-27_1936.md) | Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bl… |
 | 19:12 | 5 | [2026-11-27_1912.md](2026-11-27_1912.md) | Trump is destroying the rule of law in the US – to protect himself and the tech titans he… |
 | 18:55 | 3 | [2026-11-27_1855.md](2026-11-27_1855.md) | Anzeige: 20 Prozent Rabatt auf Vibe-Coding-Workshop |
 | 18:32 | 6 | [2026-11-27_1832.md](2026-11-27_1832.md) | Work, Workflows and Workforce: The Three-Part Approach to Evaluating AI ROI |
