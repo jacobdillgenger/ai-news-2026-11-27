@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **31** digests · **244** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **32** digests · **250** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 18:32 | 6 | [2026-11-27_1832.md](2026-11-27_1832.md) | Work, Workflows and Workforce: The Three-Part Approach to Evaluating AI ROI |
 | 18:04 | 4 | [2026-11-27_1804.md](2026-11-27_1804.md) | Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over larg… |
 | 17:42 | 3 | [2026-11-27_1742.md](2026-11-27_1742.md) | We built an AI you can dance with. It taught us about developing the technology responsib… |
 | 17:24 | 7 | [2026-11-27_1724.md](2026-11-27_1724.md) | Los chips Blackwell de Nvidia aparecen en un centro de datos de Shanghái vinculado a Alic… |
