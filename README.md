@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **24** digests · **210** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **25** digests · **212** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 15:50 | 2 | [2026-11-27_1550.md](2026-11-27_1550.md) | Bankrupt Chatbot Startup Looking to Sell Troves of Child Data Tries and Fails to Conceal… |
 | 15:26 | 7 | [2026-11-27_1526.md](2026-11-27_1526.md) | It's making your list, and checking your price: Holiday shopping goes AI |
 | 15:03 | 6 | [2026-11-27_1503.md](2026-11-27_1503.md) | This ER Doctor Became a Hospital’s First Clinical AI Engineer |
 | 14:48 | 1 | [2026-11-27_1448.md](2026-11-27_1448.md) | SAP: Was wir über den IT-Sicherheitsvorfall bei dem Softwarekonzern wissen – und was nicht |
