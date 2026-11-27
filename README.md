@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **32** digests · **250** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **33** digests · **253** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 18:55 | 3 | [2026-11-27_1855.md](2026-11-27_1855.md) | Anzeige: 20 Prozent Rabatt auf Vibe-Coding-Workshop |
 | 18:32 | 6 | [2026-11-27_1832.md](2026-11-27_1832.md) | Work, Workflows and Workforce: The Three-Part Approach to Evaluating AI ROI |
 | 18:04 | 4 | [2026-11-27_1804.md](2026-11-27_1804.md) | Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over larg… |
 | 17:42 | 3 | [2026-11-27_1742.md](2026-11-27_1742.md) | We built an AI you can dance with. It taught us about developing the technology responsib… |
