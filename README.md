@@ -1,10 +1,11 @@
 # AI News · 27 Nov 2026
 
 > AI news digests for this day, collected automatically from public RSS feeds.
-> **11** digests · **140** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
+> **12** digests · **144** stories · times in CET · [About this account](https://github.com/jacobdillgenger)
 
 | Time | Stories | Digest | Top story |
 | :-- | --: | :-- | :-- |
+| 10:44 | 4 | [2026-11-27_1044.md](2026-11-27_1044.md) | Agentische KI: BSI-Chefin warnt vor "Cyberangriffen zum Schnäppchenpreis" |
 | 10:16 | 15 | [2026-11-27_1016.md](2026-11-27_1016.md) | Дефицит памяти обрушит рынок ПК в 2027 году — HP нашла спасение в дорогих компьютерах с ИИ |
 | 10:00 | 15 | [2026-11-27_1000.md](2026-11-27_1000.md) | 55 дюймов, 4K 165 Гц и 5-ядерный процессор — всего $225. Представлен новый бюджетный теле… |
 | 09:38 | 15 | [2026-11-27_0938.md](2026-11-27_0938.md) | От ровера до двери: Яндекс отправит человекоподобных роботов разносить заказы |
